@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ngess\\OneDrive\\Desktop\\Maze-of-Progenitus\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A028AB1C-44E8-4EEB-BB00-47855C3187AE}|Maze-of-Progenitus\\Maze-of-Progenitus.vcxproj|C:\\Users\\ngess\\OneDrive\\Desktop\\Maze-of-Progenitus\\Maze-of-Progenitus\\src\\game\\entry.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A028AB1C-44E8-4EEB-BB00-47855C3187AE}|Maze-of-Progenitus\\Maze-of-Progenitus.vcxproj|solutionrelative:Maze-of-Progenitus\\src\\game\\entry.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "entry.cpp",
+              "DocumentMoniker": "C:\\Users\\ngess\\OneDrive\\Desktop\\Maze-of-Progenitus\\Maze-of-Progenitus\\src\\game\\entry.cpp",
+              "RelativeDocumentMoniker": "Maze-of-Progenitus\\src\\game\\entry.cpp",
+              "ToolTip": "C:\\Users\\ngess\\OneDrive\\Desktop\\Maze-of-Progenitus\\Maze-of-Progenitus\\src\\game\\entry.cpp",
+              "RelativeToolTip": "Maze-of-Progenitus\\src\\game\\entry.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-05T03:11:58.575Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
