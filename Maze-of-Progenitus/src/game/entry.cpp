@@ -22,8 +22,6 @@ int main(void)
 // platform is anything for entry point, window opening, input, and main loop https://www.youtube.com/watch?v=id_xWalGulU
 
 
-// to make run on another computer
-
 /*
 
 1: Ensure cross-platform code and include any necessary Raylib libraries (.lib, .dll, .so) or provide instructions for installation.
@@ -36,7 +34,6 @@ Clone the repo.
 Open .sln or set up a new project.
 Set include paths and libraries.
 Build and run.
-
 
 
 method 2 (better):
