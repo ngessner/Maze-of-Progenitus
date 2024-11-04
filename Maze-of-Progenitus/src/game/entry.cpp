@@ -8,7 +8,7 @@ int main(void)
     while (!WindowShouldClose())
     {
         BeginDrawing();
-        ClearBackground(RAYWHITE);
+        ClearBackground(SKYBLUE);
         DrawText("testing", 190, 200, 20, BLACK);
         EndDrawing();
     }
